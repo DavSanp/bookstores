@@ -1,8 +1,8 @@
 /*
  * ring_buffer.h
  *
- *  Created on: Aug 16, 2024
- *      Author: saaci
+ *  Created on: Aug 22, 2024
+ *      Author: DavSanp
  */
 
 #ifndef INC_RING_BUFFER_H_
